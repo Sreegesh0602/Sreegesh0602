@@ -2,7 +2,7 @@
 <p style="align":center;>A Passionate Learner and Tech Enthusiast.</p>
   
 - 👀 I’m interested in Data Science/Hacking
-- 🌱 I’m currently learning B.Tech Computer Sci.Data Science
+- 🌱 I’m completed B.Tech Computer Sci.Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me sreegesh777@gmail.com
 - 😁 To know more why don't we talk over a tea 🍵
